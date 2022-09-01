@@ -2,9 +2,7 @@
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
 /*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Saquib Aftab
 */
 
 html, body, div, span, applet, object,
@@ -100,14 +98,15 @@ input, select, textarea {
 
 	body {
 		background-color: #935d8c;
-		/* background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #083f1c 65%);
+		/* background-color: #1b6737; */
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 95%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 95%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 95%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 95%);
+		/* background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #083f1c 65%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #083f1c 65%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #083f1c 65%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #083f1c 65%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #083f1c 65%); */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
